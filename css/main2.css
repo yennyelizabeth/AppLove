@@ -15,7 +15,6 @@ body {
   margin: 0 auto;
   font-size: 16px;
   line-height: 1.71429;
-
 }
 
 img {
@@ -28,7 +27,6 @@ img {
   margin-left: auto;
   padding-left: 14px;
   padding-right: 14px;
-  position:relative;
 }
 
 .container:before, .container:after {
@@ -67,50 +65,8 @@ a:hover {
   color: #E95853;
 }
 
-/*ESCRIBE TU CÓDIGO DESDE AQUÍ*/
-header {
-  position:relative;
-}
-
-.box-header {
-
-}
-
-a {
-font-size: 15px;
-}
-
 .text-uppercase {
   text-transform: uppercase;
 }
 
-.box-header {
-  position:absolute;
-  display: inline-block;
-  float:left ;
-}
-
-.figure-header {
-  position: relative;
-  display: inline-block;
-}
-
-.image-header {
-  position:absolute;
-  display: inline-block;
-  float: left;
-  width: 40px;
-  left:700px;
-  bottom: -24px;
-}
-
-.background-1-p {
-  position: absolute;
-  float:left;
-}
-.text-1 {
- position: absolute;
-  float:left;
-  bottom: -340px;
-  color:white;
-}
+/*ESCRIBE TU CÓDIGO DESDE AQUÍ*/
